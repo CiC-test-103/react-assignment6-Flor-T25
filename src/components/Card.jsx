@@ -1,5 +1,5 @@
 import styles from './Card.module.css'
-import CardContent from './CardContent'
+import CardContent from './CardContent.jsx'
 
 const Card = () => {
     return (

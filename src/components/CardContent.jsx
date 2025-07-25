@@ -1,6 +1,6 @@
 import styles from './CardContent.module.css';
 import avatarImg from '../../images/avatar-michelle.jpg';
-import ShareButton from './ShareButton';
+import ShareButton from './ShareButton.jsx';
 
 const CardContent = () => {
     return (
